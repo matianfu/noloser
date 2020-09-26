@@ -1,2 +1,4 @@
 # noloser
-noloser is my first project on allwinner platform
+noloser is my first project on allwinner platform.
+
+This is a KiCAD project.
